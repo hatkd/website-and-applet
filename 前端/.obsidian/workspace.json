@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "21e37f7a4cdf1340",
+    "type": "split",
+    "children": [
+      {
+        "id": "88180a542805a1f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c896af26c0117087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javasprict基础语法/输出.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3029eff8a0c6415f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javasprict基础语法/输出.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f053066e296854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javasprict基础语法/标识符，关键字，保留字.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe5770db62cd9ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javasprict基础语法/运算符.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a70004c91642a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javasprict基础语法/数组.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "652fcf7109821631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javasprict基础语法/函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "833b9829653c984b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javasprict基础语法/块级作用域.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "394bdb058710b054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javasprict基础语法/预解析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5634bb6529fd250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "附件/配套课.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6eb897fea4da813",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba59569689b0800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b727b2adeb7d52d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e231a9409a57bc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8feca87e910564bf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4873437c05c17136",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c0516c9fa73283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "416075012d417eec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "附件/配套课.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d375d5c779b8fbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "附件/配套课.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f81788f8b93a8b32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df734637af00181b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "附件/配套课.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f5634bb6529fd250",
+  "lastOpenFiles": [
+    "javasprict基础语法/对象的使用方法.md",
+    "javasprict基础语法/对象.md",
+    "javasprict基础语法/预解析.md",
+    "javasprict基础语法/块级作用域.md",
+    "javasprict基础语法/函数.md",
+    "javasprict基础语法/类型.md",
+    "javasprict基础语法/数组.md",
+    "javasprict基础语法/运算符.md",
+    "javasprict基础语法/标识符，关键字，保留字.md",
+    "javasprict基础语法/输出.md"
+  ]
+}

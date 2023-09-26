@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>表白墙</title>
+</head>
+<style>
+    #from {
+        text-align: center;
+        background-image: url("//里面放路径");
+
+    }
+
+    #to {
+        text-align: center;
+        background-image: url("");
+        /* 颜色代替 */
+        background-color: bisque;
+
+    }
+
+    #message {
+        text-align: center;
+        background-image: url("");
+        background-color: antiquewhite
+    }
+
+    #button {
+        background-color: aquamarine;
+    }
+</style>
+
+<body>
+    <center>
+        <!-- 为啥这里会变红，center不是标签吗 -->
+        <input type="text" placeholder="谁" id="from"><br />
+        <input type="text" placeholder="对谁" id="to"><br />
+        <input type="text" placeholder="说什么" id="message"><br />
+        <button id="button">提交</button>
+    </center>
+
+    <script>
+
+
+        let from = document.querySelector("#from");
+        let to = document.querySelector("#to");
+        let message = document.querySelector("#message");
+
+        let button = document.querySelector("button");
+
+        let body = document.querySelector("body");
+        button.onclick = function () {
+            console.log("from " + from.value + " to " + to.value + " message " + message.value);
+
+            let div = document.createElement("div");
+            div.innerHTML = from.value + " 对 " + to.value + " 说 " + message.value;
+            body.appendChild(div);
+        }
+    </script>
+</body>
+
+</html>

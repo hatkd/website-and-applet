@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="text" placeholder=" 谁" id="from">
+    <input type="text" placeholder="对谁" id="to">
+    <input type="text" placeholder="说什么" id="message">
+    <button>submit</button>
+</body>
+
+<script>
+    //选定标签
+    let from = document.querySelector("#from")
+    let to = document.querySelector("#to")
+    let message = document.querySelector("#message")
+    let button = document.querySelector("button")
+
+    button.onclick = function () {
+
+        let div = document.createElement("div")
+        div.innerHTML = from.value + "对" + to.value + "说" + message.value
+        body.appendChild("div")
+    }
+
+</script>
+
+</html>

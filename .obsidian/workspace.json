@@ -1,0 +1,437 @@
+{
+  "main": {
+    "id": "478a32c90fe12bb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad8ca4834cce2fb2",
+        "type": "split",
+        "children": [
+          {
+            "id": "5dc5b541c542c779",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "47353f2ebdfa44fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/javasprict基础语法/数组方法.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "45f6ab574eb50f41",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/javasprict基础语法/字符串.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4fd844c886f047ed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/javasprict基础语法/字符串.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a0ed2670ee502a5d",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "attachion/Pasted image 20230114153451.png"
+                  }
+                }
+              },
+              {
+                "id": "d1a686f080bdb8fe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/javasprict基础语法/字符串.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "496ce2aae8137d5c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/web APIS/web APIS是js的应用.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1853e4a34b0c58f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/web APIS/DOM.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8bf7b1d01ab26c47",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/web APIS/事件三要素.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4c22a9006d51dfb1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/javasprict基础语法/类型.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "581879846bd91012",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/web APIS/事件三要素.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "59a075be60eb302c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "前端/web APIS/操作元素.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "26ff65bd8533054c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "服务器/Ajax.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fe1965a2693e58ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "服务器/Ajax.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1301a9216f2cf9ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "服务器/Ajax.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7ae6fd7a32baf2e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "服务器/jQuery/PostMan.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d43bfa3d8c6069a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "form表单和模板引擎/form.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "70d4a9e4bbe14cac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "form表单和模板引擎/表单同步提交.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bb276677cf013dd5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "案例/分时问候案例.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "40bc317eb4474687",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "小程序/20221229_230153.bmp"
+                  }
+                }
+              },
+              {
+                "id": "eca5a32faebf7404",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "attachion/Pasted image 20230114153451.png"
+                  }
+                }
+              },
+              {
+                "id": "ab75684a3c0ebf79",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.2.8"
+                  }
+                }
+              }
+            ],
+            "currentTab": 20
+          },
+          {
+            "id": "ac04aa6e55e8e114",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "78c250cfb6737950",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b43542a771fa376",
+    "type": "split",
+    "children": [
+      {
+        "id": "09054d0af60393e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b9f14fe0a805a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33ee21db01ee1a1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "504e40b3236adcb2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "99fed861dff4abd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41159edf9d0c5216",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d5d6d408a0e774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "319d44d05efbb706",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "attachion/Pasted image 20230114153451.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "522dc0f0a270e3b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "attachion/Pasted image 20230114153451.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5abff14515a1292",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a14b7d8504e6d0e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "attachion/Pasted image 20230114153451.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ab75684a3c0ebf79",
+  "lastOpenFiles": [
+    "前端/javasprict基础语法/预解析.md",
+    "前端/javasprict基础语法/运算符.md",
+    "前端/javasprict基础语法/字符串.md",
+    "案例/分时问候案例.md",
+    "前端/javasprict基础语法/标识符，关键字，保留字.md",
+    "服务器/jQuery/选择器.md",
+    "前端/附件/配套课.md",
+    "小程序/示例一.md",
+    "小程序/20221229_230153.bmp",
+    "思维导图",
+    "服务器/Pasted image 20230201172051.png",
+    "服务器/jQuery/Dom对象和Jquery对象.md",
+    "服务器/jQuery/jQuery Ajax.md",
+    "服务器/jQuery/PostMan.md",
+    "服务器/Ajax.md",
+    "服务器/jQuery/jQuery（js的一个库）.md",
+    "小程序/页面.md",
+    "前端/javasprict基础语法/数组方法.md",
+    "form表单和模板引擎/form.md",
+    "前端/javasprict基础语法/数组.md",
+    "前端/web APIS/操作元素.md",
+    "前端/web APIS/事件三要素.md",
+    "attachion/Pasted image 20230114153451.png"
+  ]
+}

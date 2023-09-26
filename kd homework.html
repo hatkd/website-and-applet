@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>homework</title>
+</head>
+<style>
+    table {
+        width: 400px;
+
+    }
+
+    td {
+        border: 1px solid black;
+    }
+
+    #tr1 {
+        color: red;
+        text-decoration: underline;
+    }
+
+    #tr2 {
+        color: green;
+        text-decoration: line-through;
+    }
+
+    #tr3 {
+        color: blue;
+        font-weight: 900;
+    }
+</style>
+
+<body>
+
+
+</body>
+<script>
+    let count = 0
+    let table = document.createElement("table")
+    table.align = "center"
+    body = document.querySelector("body")
+    body.appendChild(table)
+
+
+    for (let i = 0; i < 3; i++) {
+        let tr = document.createElement("tr")
+        table.appendChild(tr)
+        tr.id = "tr" + String(i + 1)
+
+        for (let j = 0; j < 3; j++) {
+            count++
+            let td = document.createElement("td")
+            tr.appendChild(td)
+            td.innerHTML = String(count)
+        }
+    }
+
+
+
+</script>
+
+</html>

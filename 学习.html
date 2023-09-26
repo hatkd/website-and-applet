@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<>" , initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>我是标签</h1>
+    <h1 id="id1">我是1</h1>
+    <h1 class="class1">我是2</h1>
+    <div id="one">
+        我是one
+        <div id="two">
+
+        </div>
+    </div>
+
+    <script>
+        // let h1 = document.querySelector("#id1")
+        // let h2 = document.querySelector(".class1")
+        // console.log(h1)
+        // console.log(h2)
+        // //#id .class * 标签
+        // //复合：1. 后代 div div {}全部后代
+        // //2. 子类 div>div{},只能儿子
+        // //3. 并集 div,div{}
+        // //4. 伪类 针对a标签的，没啥所谓
+        // let numberDiv = document.querySelector("#id1 #id2")
+        // numberDiv.innerHTML = "number"
+        // let iddiv = document.querySelector("#one")
+        // iddiv.innerHTML = "我是要求的字符"
+
+
+
+        let newStudentdiv = document.createElement("div")
+        newStudentdiv.innerHTML = "student"
+        let newNamediv = document.createElement("div")
+        newNamediv.innerHTML = "name"
+        newStudentdiv.appendChild(newNamediv)
+        let body = document.querySelector("body")
+        body.appendChild(newStudentdiv)
+
+
+
+    </script>
+</body>
+
+</html>
